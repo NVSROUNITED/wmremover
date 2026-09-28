@@ -39,7 +39,7 @@ still there, it's baked in, so use `--raster`.
 ## Install
 
 ```bash
-git clone https://github.com/NVSRO/wmremover.git
+git clone https://github.com/NVSROUNITED/wmremover.git
 cd wmremover
 pip install -e .
 ```
